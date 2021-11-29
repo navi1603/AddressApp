@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AddressApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AddressApp_jar</output-path>
+    <root id="archive" name="AddressApp.jar">
+      <element id="module-output" name="AddressApp" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JavaLib/jaxb-ri/lib/jaxb-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JavaLib/jaxb-ri/lib/jaxb-jxc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JavaLib/jaxb-ri/lib/jaxb-xjc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JavaLib/jaxb-ri/lib/jaxb-core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JavaLib/jaxb-ri/lib/jaxb-impl.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

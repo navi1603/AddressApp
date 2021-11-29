@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="javafx" build-on-make="true" name="AddressApp">
+  <artifact type="javafx" build-on-make="true" name="AddressApp.exe">
     <output-path>$PROJECT_DIR$/build</output-path>
     <properties id="javafx-properties">
       <options>
